@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ScratchMe</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+
+    <string name="api_key" translatable="false">b3ec1402a365c9b29975d123e3390458</string>
+    <string name="api_secret" translatable="false">8e2cd4a0c1258d851e9e6a358a658ab3</string>
+</resources>
